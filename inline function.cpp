@@ -9,7 +9,7 @@ inline int cube(int s)
 }
 int main()
 {
-	cout << "The cube of 3 is: " << cube(55) << "\n";
+	cout << "The cube of 3 is: " << cube(3) << "\n";
 	return 0;
 } //Output: The cube of 3 is: 27
 
